@@ -1,0 +1,9 @@
+{
+  "name": "tweb-week-6-auth-test",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
